@@ -1,0 +1,15 @@
+.vs/
+*.sdf
+*.suo
+*.sln
+*.VC.db
+
+Release/*.exp
+Release/*.iobj
+Release/*.ipdb
+Release/*.lib
+Release/*.pdb
+
+rfudp/Release/
+rfudp/rfudp*
+
