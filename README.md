@@ -10,23 +10,23 @@ Zadaniem pluginu jest przekazywanie danych telemetrycznych przez UDP. Z drugiej 
 To co miałem jeszcze na dysku to wrzucam, powinno działać. Jakby ktoś miał jakieś problemu to służę pomocą.
 
 ###### Obroty, biegi, prędkość
-![][ref-img3]
+![][ref-img-3]
 
 ###### Gaz, hamulec, położenie kierownicy, pedał sprzęgła
-![][ref-img4]
+![][ref-img-4]
 
 ###### Nazwa samochodu i trasy
-![][ref-img5]
+![][ref-img-5]
 
 ###### Temperatura oleju i wody
-![][ref-img6]
+![][ref-img-6]
 
 ###### Numer sesji i ilość pojazdów
-![][ref-img7]
+![][ref-img-7]
 
 ###### CT, ET
 (prawdopodobnie w trybie "testing" nie mają one większego znaczenia)
-![][ref-img8]
+![][ref-img-8]
 
 ### Instalacja i uruchomienie
 ###### Lista niezbędnych rzeczy:
